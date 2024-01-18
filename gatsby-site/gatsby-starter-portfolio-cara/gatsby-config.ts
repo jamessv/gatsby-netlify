@@ -10,7 +10,7 @@ const config: GatsbyConfig = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
     siteTitle: `Engr. Portfolio`,
     siteTitleAlt: `Engr. Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
+    siteHeadline: `Engr. Portfolio`,
     siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteImage: `/banner.jpg`,
