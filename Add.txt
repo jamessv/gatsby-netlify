@@ -1,9 +1,0 @@
-This is new file.
-
-This 2nd commit
-
-This 3rd commit
-
-This 4th commit
-
-This 5th commit

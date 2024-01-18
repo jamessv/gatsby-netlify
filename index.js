@@ -1,1 +1,0 @@
-documentBygetElementByIs.documentBygetElementByIs("P")
